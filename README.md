@@ -1,3 +1,3 @@
 # ThinkingBadTheatre
 
-Website for Thinking Bad Theatre
+Website for Thinking Bad Theatre.
